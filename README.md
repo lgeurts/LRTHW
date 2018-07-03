@@ -2,9 +2,7 @@
 
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/lgeurts/LRTHW) [![Project Status: Active](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 
-##################################################
 # Learn Ruby THE HARD WAY.
-##################################################
 
 First lesson to be learned:
 
