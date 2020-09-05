@@ -2,7 +2,7 @@
 
 [![AUR](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/lgeurts/LRTHW/blob/master/LICENSE.md) [![Project Status: Active](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 
-# Learn Ruby THE HARD WAY.
+# Learn Ruby the HARD WAY.
 
 First lesson to be learned:
 
